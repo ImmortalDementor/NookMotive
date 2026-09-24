@@ -19,7 +19,7 @@ Then open `http://localhost:8000`.
 ## Included
 - Homepage with latest guides
 - 5 category pages
-- 5 real starter articles
+- 10 real starter articles
 - About
 - Affiliate Disclosure
 - Privacy Policy
@@ -32,3 +32,12 @@ Then open `http://localhost:8000`.
 - Add the exact required Amazon disclosure.
 - Add only relevant affiliate links.
 - Verify live prices before using price-specific claims.
+
+## New in v3
+- 7 Bathroom Organization Ideas for Small Indian Homes
+- 9 No-Drill Storage Ideas for Rental Rooms
+- 10 Wardrobe Organization Ideas for Small Bedrooms
+- 8 Space-Saving Products for Hostel Rooms
+- 7 Affordable Lighting Ideas to Make a Small Room Feel Better
+
+At this stage the site has 10 original starter articles and is ready for a content-quality check before applying to Amazon.in Associates.
