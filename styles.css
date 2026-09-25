@@ -102,3 +102,6 @@ footer{border-top:1px solid var(--line);margin-top:56px;padding:30px 0;color:var
   nav ul{display:none}
   .hero{padding-top:44px}
 }
+
+/* Affiliate product blocks */
+.affiliate-disclosure-inline{background:#fff8ec;border:1px solid #ecd8bb;border-radius:14px;padding:14px 16px;margin:24px 0;color:#5b4a3d;font-size:.95rem}.product-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:22px 0 30px}.product-card{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:18px;box-shadow:0 8px 24px rgba(73,49,31,.04)}.product-card h3{margin:.2rem 0 .55rem}.product-card p{margin:.35rem 0 1rem;color:var(--muted)}.product-card .product-meta{font-size:.78rem;text-transform:uppercase;letter-spacing:.05em;color:var(--accent-dark);font-weight:800}.amazon-btn{display:inline-block;background:var(--accent);color:#fff;font-weight:800;padding:10px 15px;border-radius:999px}.amazon-btn:hover{background:var(--accent-dark)}@media(max-width:700px){.product-grid{grid-template-columns:1fr}}

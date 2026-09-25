@@ -41,3 +41,13 @@ Then open `http://localhost:8000`.
 - 7 Affordable Lighting Ideas to Make a Small Room Feel Better
 
 At this stage the site has 10 original starter articles and is ready for a content-quality check before applying to Amazon.in Associates.
+
+
+## v4 affiliate update
+- Added Amazon.in affiliate product sections to all 10 starter articles.
+- Added `rel="sponsored nofollow noopener"` to affiliate buttons.
+- Added an inline affiliate disclosure above product sections.
+- Updated the site-wide Affiliate Disclosure page with the required Amazon Associate statement.
+- Product buttons say “Check current price on Amazon” instead of hard-coding prices.
+
+Associate tracking ID: `nookmotive-21`
